@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/css/main.72fdeac9.chunk.css",
+    "main.js": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/js/main.db5de31d.chunk.js",
+    "main.js.map": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/js/main.db5de31d.chunk.js.map",
+    "runtime-main.js": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/js/runtime-main.73782c1a.js",
+    "runtime-main.js.map": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/js/runtime-main.73782c1a.js.map",
+    "static/css/2.4be38407.chunk.css": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/css/2.4be38407.chunk.css",
+    "static/js/2.31d315b4.chunk.js": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/js/2.31d315b4.chunk.js",
+    "static/js/2.31d315b4.chunk.js.map": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/js/2.31d315b4.chunk.js.map",
+    "static/js/3.0661ceae.chunk.js": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/js/3.0661ceae.chunk.js",
+    "static/js/3.0661ceae.chunk.js.map": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/js/3.0661ceae.chunk.js.map",
+    "index.html": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/index.html",
+    "static/css/2.4be38407.chunk.css.map": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.72fdeac9.chunk.css.map": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/css/main.72fdeac9.chunk.css.map",
+    "static/js/2.31d315b4.chunk.js.LICENSE.txt": "ec2-3-136-18-168.us-east-2.compute.amazonaws.com/static/js/2.31d315b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73782c1a.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.31d315b4.chunk.js",
+    "static/css/main.72fdeac9.chunk.css",
+    "static/js/main.db5de31d.chunk.js"
+  ]
+}
